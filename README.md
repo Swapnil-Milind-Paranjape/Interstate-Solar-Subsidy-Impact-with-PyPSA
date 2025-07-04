@@ -48,7 +48,7 @@ pip install pypsa pandas numpy matplotlib
 Run the base simulation:
 
 ```bash
-python solar_dispatch.py
+jupyter nbconvert --to notebook --execute inter_state_transmission.ipynb
 ```
 
 To simulate for 1 year or with subsidy:
