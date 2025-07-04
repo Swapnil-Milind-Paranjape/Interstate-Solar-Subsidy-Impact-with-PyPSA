@@ -51,22 +51,15 @@ Run the base simulation:
 jupyter nbconvert --to notebook --execute inter_state_transmission.ipynb
 ```
 
-To simulate for 1 year or with subsidy:
 
-```bash
-python solar_dispatch.py --yearly --subsidy
-```
 
 ## 📁 Files
 
-* `solar_dispatch.py` – Main simulation script.
+* `inter_state_transmission.ipynb` – Main simulation script.
 * `README.md` – Project overview.
-* `results/` – (Optional) Folder to store CSV outputs and plots.
+* `results.pdf` – PDF file explaining the results.
 
-## ✍️ Authors
 
-Swapnil Paranjape
-M.Tech Energy Systems Engineering, IIT Bombay
 
 ## 📄 License
 
@@ -76,9 +69,4 @@ M.Tech Energy Systems Engineering, IIT Bombay
 
 For questions or feedback, feel free to reach out.
 
-```
-
----
-
-Let me know if you’d like me to generate the corresponding `solar_dispatch.py` structure or add visuals or badges.
 ```
