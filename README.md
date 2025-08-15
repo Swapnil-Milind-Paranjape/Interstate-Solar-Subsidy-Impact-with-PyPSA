@@ -1,4 +1,4 @@
-# Impact of Solar Transmission Subsidies on Interstate Power Dispatch
+# PyPSA Analysis of Solar Subsidy Removal on Interstate Power Dispatch
 
 ## 🔎 Overview
 This project models and analyzes the impact of solar transmission subsidies on the energy dispatch between Indian states, specifically Karnataka and Maharashtra, using the [PyPSA](https://pypsa.org/) framework. It simulates generation, transmission, and total system costs under scenarios **with and without** solar transmission subsidies.
